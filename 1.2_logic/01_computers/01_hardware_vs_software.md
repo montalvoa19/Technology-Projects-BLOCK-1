@@ -2,7 +2,7 @@
 
 ## Explain Hardware
 Write **at least 50 words** explaining what hardware is.
----
+--- Hardware is
 
 ## Explain Software
 Write **at least 50 words** explaining what software is.
